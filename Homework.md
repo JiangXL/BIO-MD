@@ -18,10 +18,11 @@ propose a testable hypothesis to explain this.
 What's the weakness of the paper "Identification of a Primary Target of
 Thalidomide Teratogenicity" ?
 
+
 # 4
 **Q**: In our class, I mentioned several times that model organisms are similar to
 human more or less to some extension. However, we are different. So in your
-opinion, what's the biggest difference between human and animals?  
+opinion, what's the biggest difference between human and animals? 
 
 **A**: Biggest difference is the complex and organized activites in brain, which
 form morality and ability to get a very big view of universe. Kant said in the
