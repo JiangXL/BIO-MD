@@ -1,4 +1,8 @@
 # 20. Regeneration
+Regeneration is a homeostatic process that maintains
+or restores the original architecture and function of a
+tissue after damage in adult animal.
+
 The in urodele amphibians
 
 Dorsal crest limbs, retina and lens, jaw
@@ -19,6 +23,16 @@ Prometheus and liver regenration
 
 Tentative priciples
 
+## Qusetions
+Major questions
+• 1. What is the origin of the cells that give rise to
+the regenerated structures?
+• 2. What mechanisms pattern the regenerated
+tissue?
+• 3. How are these related to the patterning
+processes that occur in embryogenesis?
+• 4. What are the factors that regulate these
+activities?
+
 ## Reference
 [1](https://en.wikipedia.org/wiki/Morphallaxis)
-

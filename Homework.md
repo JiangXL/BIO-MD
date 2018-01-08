@@ -1,3 +1,8 @@
+# 10
+What are the initial left-right symmetry-breaking events in Xenopus and mouse respectively?
+
+
+
 # 7
 For scientific research, it willl attract more intesest in spindle asymmetry and
 mechanism of meiotis spindle. More interesting discovery will be published.
@@ -22,7 +27,7 @@ Thalidomide Teratogenicity" ?
 # 4
 **Q**: In our class, I mentioned several times that model organisms are similar to
 human more or less to some extension. However, we are different. So in your
-opinion, what's the biggest difference between human and animals? 
+opinion, what's the biggest difference between human and animals?
 
 **A**: Biggest difference is the complex and organized activites in brain, which
 form morality and ability to get a very big view of universe. Kant said in the
